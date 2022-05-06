@@ -29,7 +29,7 @@ class Employee{
 
 
 //Creating Main method Class
-public class Main {
+public class CRUDCollection {
     public static void main(String args[]) {
         //Creating collection 
         List<Employee> c = new ArrayList<Employee>();
